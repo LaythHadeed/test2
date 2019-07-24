@@ -15,6 +15,8 @@ object test extends App {
     }
     fi(ll,List())
   }
+  //what is going on here .......
+  println()
 
   println(fg(l))
 
