@@ -30,5 +30,6 @@ object RatingsCounter {
     // Print each result on its own line.
     sortedResults.foreach(println)
    //added online
+    //added offline
   }
 }
