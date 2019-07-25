@@ -1,0 +1,4 @@
+object layth
+{
+  println("hi")
+  }
