@@ -23,4 +23,6 @@ object test extends App {
 
   println(fg(l))
 
+  
+
 }
