@@ -31,5 +31,6 @@ object RatingsCounter {
     sortedResults.foreach(println)
    //added online
     //added offline
+    // this is terminal 1 1
   }
 }
